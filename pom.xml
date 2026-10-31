@@ -487,7 +487,7 @@
         </dependency>
         <!-- Source: https://github.com/easy-4-java/shiro-biz — easy4j shiro-biz -->
         <dependency>
-            <groupId>io.github.hiwepy</groupId>
+            <groupId>com.github.hiwepy</groupId>
             <artifactId>shiro-biz</artifactId>
             <version>${shiro-biz.version}</version>
         </dependency>
